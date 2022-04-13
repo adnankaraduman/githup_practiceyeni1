@@ -5,6 +5,8 @@ public class Practice1Yeni {
 
     // step 2
 
+    // step 3
+
 
 }
 
